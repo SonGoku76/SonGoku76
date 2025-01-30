@@ -10,7 +10,7 @@
 <p>Leon</p>
 
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Zombiebattler)
-  [![Webseite](https://img.shields.io/badge/-Website-000?style=flat-square&logo=globe&logoColor=white)](leon.lekl7.de) 
+  [![Webseite](https://img.shields.io/badge/-Website-000?style=flat-square&logo=globe&logoColor=white)](https://leon.lekl7.de/) 
 
 
 
